@@ -1,0 +1,16 @@
+D:\programs\usb-scale-console-test\bin\Debug\net5.0\usb-scale-console-test.exe
+D:\programs\usb-scale-console-test\bin\Debug\net5.0\usb-scale-console-test.deps.json
+D:\programs\usb-scale-console-test\bin\Debug\net5.0\usb-scale-console-test.runtimeconfig.json
+D:\programs\usb-scale-console-test\bin\Debug\net5.0\usb-scale-console-test.runtimeconfig.dev.json
+D:\programs\usb-scale-console-test\bin\Debug\net5.0\usb-scale-console-test.dll
+D:\programs\usb-scale-console-test\bin\Debug\net5.0\ref\usb-scale-console-test.dll
+D:\programs\usb-scale-console-test\bin\Debug\net5.0\usb-scale-console-test.pdb
+D:\programs\usb-scale-console-test\obj\Debug\net5.0\usb-scale-console-test.csprojAssemblyReference.cache
+D:\programs\usb-scale-console-test\obj\Debug\net5.0\usb-scale-console-test.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\usb-scale-console-test\obj\Debug\net5.0\usb-scale-console-test.AssemblyInfoInputs.cache
+D:\programs\usb-scale-console-test\obj\Debug\net5.0\usb-scale-console-test.AssemblyInfo.cs
+D:\programs\usb-scale-console-test\obj\Debug\net5.0\usb-scale-console-test.csproj.CoreCompileInputs.cache
+D:\programs\usb-scale-console-test\obj\Debug\net5.0\usb-scale-console-test.dll
+D:\programs\usb-scale-console-test\obj\Debug\net5.0\ref\usb-scale-console-test.dll
+D:\programs\usb-scale-console-test\obj\Debug\net5.0\usb-scale-console-test.pdb
+D:\programs\usb-scale-console-test\obj\Debug\net5.0\usb-scale-console-test.genruntimeconfig.cache
