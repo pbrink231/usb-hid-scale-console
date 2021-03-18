@@ -14,3 +14,5 @@ D:\programs\usb-scale-console-test\obj\Debug\net5.0\usb-scale-console-test.dll
 D:\programs\usb-scale-console-test\obj\Debug\net5.0\ref\usb-scale-console-test.dll
 D:\programs\usb-scale-console-test\obj\Debug\net5.0\usb-scale-console-test.pdb
 D:\programs\usb-scale-console-test\obj\Debug\net5.0\usb-scale-console-test.genruntimeconfig.cache
+D:\programs\usb-scale-console-test\bin\Debug\net5.0\HidLibrary.dll
+D:\programs\usb-scale-console-test\obj\Debug\net5.0\usb-scale-console-test.csproj.CopyComplete
