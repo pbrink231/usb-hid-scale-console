@@ -39,6 +39,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "HidLibrary": {
+              "target": "Package",
+              "version": "[3.3.40, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

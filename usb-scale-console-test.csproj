@@ -6,4 +6,8 @@
     <RootNamespace>usb_scale_console_test</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="HidLibrary" Version="3.3.40" />
+  </ItemGroup>
+
 </Project>

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LYo1oOvy78HI1xIg70wpA4YySDqeOYyAf4HRP/5utZ7iCgfX+ShyR81xHvLzt0OlBvbt2AxA23c70m3FHPdVkQ==",
+  "dgSpecHash": "546A99ywssfFPYaktzyuE22rab15C4Fe6kSpWoehw7xbs3XApKf9CxDWr+CM+x+As0NiI86ePISfVtECcEqGZw==",
   "success": true,
   "projectFilePath": "D:\\programs\\usb-scale-console-test\\usb-scale-console-test.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\beast\\.nuget\\packages\\hidlibrary\\3.3.40\\hidlibrary.3.3.40.nupkg.sha512"
+  ],
   "logs": []
 }

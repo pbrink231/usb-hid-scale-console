@@ -1,11 +1,46 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "hidlibrary/3.3.40": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2/HidLibrary.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2/HidLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "hidlibrary/3.3.40": {
+      "sha512": "8KEiKYk4nmK3OyV+kQr8DwLcl8L+sPUPqENhtWTzQJrhFzGSaKe1F4VDG/bRBSfkbS0AxkM5+AN8xanxsAWfWA==",
+      "type": "package",
+      "path": "hidlibrary/3.3.40",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "hidlibrary.3.3.40.nupkg.sha512",
+        "hidlibrary.nuspec",
+        "lib/net20/HidLibrary.dll",
+        "lib/net20/HidLibrary.pdb",
+        "lib/net35/HidLibrary.dll",
+        "lib/net35/HidLibrary.pdb",
+        "lib/net40/HidLibrary.dll",
+        "lib/net40/HidLibrary.pdb",
+        "lib/net45/HidLibrary.dll",
+        "lib/net45/HidLibrary.pdb",
+        "lib/netstandard2/HidLibrary.deps.json",
+        "lib/netstandard2/HidLibrary.dll",
+        "lib/netstandard2/HidLibrary.pdb"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "HidLibrary >= 3.3.40"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\beast\\.nuget\\packages\\": {}
@@ -45,6 +80,12 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
+        "dependencies": {
+          "HidLibrary": {
+            "target": "Package",
+            "version": "[3.3.40, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
